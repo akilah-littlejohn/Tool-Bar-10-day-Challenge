@@ -1,0 +1,19 @@
+header {
+  background-color: red;
+  padding: 3px;
+  display: flex;
+}
+nav {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  font-size: small;
+}
+h1 {
+  border: black 2px solid;
+  font-size: medium;
+  margin: 5px;
+  padding: 0.5em;
+  color: white;
+  font-family: verdana;
+}
